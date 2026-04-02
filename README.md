@@ -1,7 +1,11 @@
 PROJECT TITLE
 BMW sales analysis
+
+
 INTRODUCTION 
 This project analyzes sales data to identify sales and insights.
+
+
 METHODIOLOGY 
 -Data sourced from Kaggle datasets.
 -Data cleaning using SQL 
@@ -9,9 +13,13 @@ METHODIOLOGY
 -Table creation: Tables were created with relevant columns and data types to store sales data 
 -Table insertion: Data was inserted into tables using SQL queries 
 -SQL queries were used to extract data from table  
+
+
 VISUALISATIONS 
 -Power BI was used to create visuals 
 -Dax was used to calculate the measures and columns 
+
+
 KEY FINDINGS 
 - The BMW sales show a fluctuating over the years 
 -Regional sales analysis shows that other countries generate more sales that Africa
